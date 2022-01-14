@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Data Science, Machine Learnning, Computer Vision
+- 🔭 I’m currently working on Data Science, Machine Learning, Computer Vision
 
 - 🌱 I’m currently learning Django, Blockchain 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on .....hmmm 🤔 let me think about it :)
 
 - 💬 Talk to me about Data Science, Machine Learning, Blockchain, Technology, Engineering, Astronomy, and even Neuroscience!! 
 
