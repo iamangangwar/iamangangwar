@@ -1,6 +1,6 @@
 # Hey there! 👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+It's+Aman;Data+Science+Enthusiast...;Blockchain+Enthusiast...;Technology+Admirer..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+It's+Aman;Blockchain+Enthusiast...;Machine+Learning+Enthusiast...;Technology+Admirer..."/>
  
  <p><i>A third year Computer Science undergrad from Indian Institute of Information Technology Vadodara. Curious about engineering and technology, love learning new things and meeting amazing people. Engineering has my heart 🤍. Let's build something useful and meaningful!</i></p>
 
@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)&nbsp;
 
 <!--
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -51,8 +52,9 @@ You can click the Preview link to take a look at your changes.
 -->
 
 #### Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white)&nbsp;
 <!--
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
